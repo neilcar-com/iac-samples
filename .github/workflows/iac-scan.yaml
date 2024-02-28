@@ -1,5 +1,6 @@
 name: IaC Scan Workflow
 on:
+  workflow_dispatch:
   # Trigger the workflow on push request,
   # but only for the main branch
   push:
