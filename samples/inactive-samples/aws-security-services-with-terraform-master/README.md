@@ -1,4 +1,4 @@
-## How to use CI/CD to deploy and configure AWS security services with Terraform
+## How to use CI/CD to deploy and configure AWS security services with Terraform templates
 
 This is sample code for the accompanying AWS Security Blog post How to use CI/CD to deploy and configure AWS security services with Terraform. A CodeBuild buildspec.yml and terraform config files to deploy a Global Web ACL & sample rules are provided. Other Terraform config files will be provided to give additional examples, however, the IAM policy provided through the blog will not cover most additional resources and you will need to make modifications. Readme's for each additional solution will live in their sub-folder.
 
